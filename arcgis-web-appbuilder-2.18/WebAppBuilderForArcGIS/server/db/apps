@@ -1,0 +1,33 @@
+{"k":"0000000096","o":"0000000352","v":"001"}
+{"_id":"HTML_basic_viewer","_uid":1,"_dt":1607402359534,"_s":"b4a0ca15b65209f5067d72cb31129e65"}
+{"createdTime":1439251200000,"lastUpdated":1439251200000,"creator":"Esri","appType":"HTML","_id":"HTML_basic_viewer","id":"HTML_basic_viewer","predefinedId":"basic_viewer","thumbnail":"images/thumbnail.jpg","stemappPath":"client\\stemapp\\","stemappUrl":"/webappbuilder/stemapp/","isTemplate":true,"isPredefined":true,"portalUrl":"*","modified":"Esri"}
+{"k":"0000000091","o":"0000000338","v":"001"}
+{"_id":"HTML_default","_uid":1,"_dt":1607402359538,"_s":"16c136273d74cb045f9f6b89a61a3a1f"}
+{"createdTime":1439337600000,"lastUpdated":1439337600000,"creator":"Esri","appType":"HTML","_id":"HTML_default","id":"HTML_default","predefinedId":"default","thumbnail":"images/thumbnail.jpg","stemappPath":"client\\stemapp\\","stemappUrl":"/webappbuilder/stemapp/","isTemplate":false,"isPredefined":true,"portalUrl":"*","modified":"Esri"}
+{"k":"0000000090","o":"0000000334","v":"001"}
+{"_id":"HTML_editor","_uid":1,"_dt":1607402364309,"_s":"f6a0807651b36509f6384ba66ded6522"}
+{"createdTime":1439251200000,"lastUpdated":1439251200000,"creator":"Esri","appType":"HTML","_id":"HTML_editor","id":"HTML_editor","predefinedId":"editor","thumbnail":"images/thumbnail.jpg","stemappPath":"client\\stemapp\\","stemappUrl":"/webappbuilder/stemapp/","isTemplate":true,"isPredefined":true,"portalUrl":"*","modified":"Esri"}
+{"k":"0000000105","o":"0000000379","v":"001"}
+{"_id":"HTML_infographic_dashboard","_uid":1,"_dt":1607402364345,"_s":"6e9be26c5aae4af1a38668dca4a87e86"}
+{"createdTime":1499299200000,"lastUpdated":1499299200000,"creator":"Esri","appType":"HTML","_id":"HTML_infographic_dashboard","id":"HTML_infographic_dashboard","predefinedId":"infographic_dashboard","thumbnail":"images/thumbnail.jpg","stemappPath":"client\\stemapp\\","stemappUrl":"/webappbuilder/stemapp/","isTemplate":true,"isPredefined":true,"portalUrl":"*","modified":"Esri"}
+{"k":"0000000101","o":"0000000367","v":"001"}
+{"_id":"HTML_simple_map_viewer","_uid":1,"_dt":1607402364345,"_s":"4cc4b7a0e68434d5d7fdd149777f0013"}
+{"createdTime":1439251200000,"lastUpdated":1439251200000,"creator":"Esri","appType":"HTML","_id":"HTML_simple_map_viewer","id":"HTML_simple_map_viewer","predefinedId":"simple_map_viewer","thumbnail":"images/thumbnail.jpg","stemappPath":"client\\stemapp\\","stemappUrl":"/webappbuilder/stemapp/","isTemplate":true,"isPredefined":true,"portalUrl":"*","modified":"Esri"}
+{"k":"0000000093","o":"0000000390","v":"001"}
+{"_id":"HTML3D_default","_uid":1,"_dt":1607402364356,"_s":"79d5a5b1521058616f3b7b7029e9942f"}
+{"name":"Default","description":"_Default","createdTime":1439337600000,"lastUpdated":1439337600000,"creator":"Esri","appType":"HTML3D","_id":"HTML3D_default","id":"HTML3D_default","predefinedId":"default","thumbnail":"images/thumbnail.jpg","stemappPath":"client\\stemapp3d\\","stemappUrl":"/webappbuilder/stemapp3d/","isTemplate":false,"isPredefined":true,"portalUrl":"*","modified":"Esri"}
+{"k":"0000000078","o":"0000000447","v":"001"}
+{"_id":2,"_uid":1,"_dt":1607403556564,"_s":"a91e9ea38855660ff39d0b0194b635c8"}
+{"_id":2,"id":2,"name":"Historic Places in England","description":"An exploration of historic battlefields and buildings of England","lastUpdated":1607403556558,"createdTime":1607403556563,"appType":"HTML","stemappPath":"client\\stemapp\\","stemappUrl":"/webappbuilder/stemapp/","creator":"JessicaKwong1992","modified":"JessicaKwong1992","portalUrl":"//mohawkarcgis.maps.arcgis.com​","isTemplateApp":true,"isTemplate":false,"isPredefined":false}
+{"k":"0000000078","o":"0000000498","v":"001"}
+{"_id":2,"_uid":1,"_dt":1607403560494,"_s":"98b3f834f324ec5992c120f906ea5895"}
+{"_id":2,"id":2,"name":"Historic Places in England","description":"An exploration of historic battlefields and buildings of England","lastUpdated":1607403560493,"createdTime":1607403556563,"appType":"HTML","stemappPath":"client\\stemapp\\","stemappUrl":"/webappbuilder/stemapp/","creator":"JessicaKwong1992","modified":"JessicaKwong1992","portalUrl":"//mohawkarcgis.maps.arcgis.com​","isTemplateApp":true,"isTemplate":false,"isPredefined":false,"styleColor":"#586679","themeName":"FoldableTheme"}
+{"k":"0000000078","o":"0000000498","v":"001"}
+{"_id":2,"_uid":1,"_dt":1607403619563,"_s":"2198580a8858c25aa4082b1c2f1320ce"}
+{"_id":2,"id":2,"name":"Historic Places in England","description":"An exploration of historic battlefields and buildings of England","lastUpdated":1607403619562,"createdTime":1607403556563,"appType":"HTML","stemappPath":"client\\stemapp\\","stemappUrl":"/webappbuilder/stemapp/","creator":"JessicaKwong1992","modified":"JessicaKwong1992","portalUrl":"//mohawkarcgis.maps.arcgis.com​","isTemplateApp":true,"isTemplate":false,"isPredefined":false,"styleColor":"#2aaa8a","themeName":"FoldableTheme"}
+{"k":"0000000078","o":"0000000498","v":"001"}
+{"_id":2,"_uid":1,"_dt":1607404708610,"_s":"5160e0d976de1e9e64c8d4b8b6eb8228"}
+{"_id":2,"id":2,"name":"Historic Places in England","description":"An exploration of historic battlefields and buildings of England","lastUpdated":1607404708609,"createdTime":1607403556563,"appType":"HTML","stemappPath":"client\\stemapp\\","stemappUrl":"/webappbuilder/stemapp/","creator":"JessicaKwong1992","modified":"JessicaKwong1992","portalUrl":"//mohawkarcgis.maps.arcgis.com​","isTemplateApp":true,"isTemplate":false,"isPredefined":false,"styleColor":"#2aaa8a","themeName":"FoldableTheme"}
+{"k":"0000000078","o":"0000000498","v":"001"}
+{"_id":2,"_uid":1,"_dt":1607404866037,"_s":"0f45c0978aecc2dfe7ae3e6c2b9480e3"}
+{"_id":2,"id":2,"name":"Historic Places in England","description":"An exploration of historic battlefields and buildings of England","lastUpdated":1607404866036,"createdTime":1607403556563,"appType":"HTML","stemappPath":"client\\stemapp\\","stemappUrl":"/webappbuilder/stemapp/","creator":"JessicaKwong1992","modified":"JessicaKwong1992","portalUrl":"//mohawkarcgis.maps.arcgis.com​","isTemplateApp":true,"isTemplate":false,"isPredefined":false,"styleColor":"#2aaa8a","themeName":"FoldableTheme"}

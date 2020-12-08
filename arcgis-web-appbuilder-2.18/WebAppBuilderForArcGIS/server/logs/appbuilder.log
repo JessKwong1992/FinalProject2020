@@ -1,0 +1,252 @@
+[2020-12-07T23:39:19.337] [INFO] repo - Read repository items: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2020-12-07T23:39:24.359] [INFO] app - Find 6 predfinded apps.
+[2020-12-07T23:39:24.382] [INFO] default - No token is found, redirect /webappbuilder/ to /webappbuilder/?action=setportalurl
+[2020-12-07T23:39:24.388] [INFO] repo - insert HTML.About
+[2020-12-07T23:39:24.390] [INFO] repo - insert HTML.AddData
+[2020-12-07T23:39:24.390] [INFO] repo - insert HTML.Analysis
+[2020-12-07T23:39:24.392] [INFO] repo - insert HTML.AttributeTable
+[2020-12-07T23:39:24.392] [INFO] repo - insert HTML.BasemapGallery
+[2020-12-07T23:39:24.393] [INFO] repo - insert HTML.BatchAttributeEditor
+[2020-12-07T23:39:24.394] [INFO] repo - insert HTML.Bookmark
+[2020-12-07T23:39:24.399] [INFO] repo - insert HTML.BusinessAnalyst
+[2020-12-07T23:39:24.402] [INFO] repo - insert HTML.Chart
+[2020-12-07T23:39:24.403] [INFO] repo - insert HTML.Coordinate
+[2020-12-07T23:39:24.407] [INFO] repo - insert HTML.CoordinateConversion
+[2020-12-07T23:39:24.409] [INFO] repo - insert HTML.CostAnalysis
+[2020-12-07T23:39:24.411] [INFO] repo - insert HTML.DataAggregation
+[2020-12-07T23:39:24.414] [INFO] repo - insert HTML.Directions
+[2020-12-07T23:39:24.415] [INFO] repo - insert HTML.DistanceAndDirection
+[2020-12-07T23:39:24.416] [INFO] repo - insert HTML.DistrictLookup
+[2020-12-07T23:39:24.416] [INFO] repo - insert HTML.Draw
+[2020-12-07T23:39:24.417] [INFO] repo - insert HTML.Edit
+[2020-12-07T23:39:24.419] [INFO] repo - insert HTML.EmergencyResponseGuide
+[2020-12-07T23:39:24.419] [INFO] repo - insert HTML.ExtentNavigate
+[2020-12-07T23:39:24.420] [INFO] repo - insert HTML.Filter
+[2020-12-07T23:39:24.420] [INFO] repo - insert HTML.FullScreen
+[2020-12-07T23:39:24.421] [INFO] repo - insert HTML.GeoLookup
+[2020-12-07T23:39:24.423] [INFO] repo - insert HTML.Geoprocessing
+[2020-12-07T23:39:24.424] [INFO] repo - insert HTML.GriddedReferenceGraphic
+[2020-12-07T23:39:24.426] [INFO] repo - insert HTML.GridOverlay
+[2020-12-07T23:39:24.427] [INFO] repo - insert HTML.GroupFilter
+[2020-12-07T23:39:24.431] [INFO] repo - insert HTML.HomeButton
+[2020-12-07T23:39:24.432] [INFO] repo - insert HTML.ImageMeasurement
+[2020-12-07T23:39:24.434] [INFO] repo - insert HTML.IncidentAnalysis
+[2020-12-07T23:39:24.435] [INFO] repo - insert HTML.Infographic
+[2020-12-07T23:39:24.439] [INFO] repo - insert HTML.InfoSummary
+[2020-12-07T23:39:24.441] [INFO] repo - insert HTML.LayerList
+[2020-12-07T23:39:24.443] [INFO] repo - insert HTML.Legend
+[2020-12-07T23:39:24.447] [INFO] repo - insert HTML.Measurement
+[2020-12-07T23:39:24.449] [INFO] repo - insert HTML.MyLocation
+[2020-12-07T23:39:24.451] [INFO] repo - insert HTML.NearMe
+[2020-12-07T23:39:24.453] [INFO] repo - insert HTML.NetworkTrace
+[2020-12-07T23:39:24.455] [INFO] repo - insert HTML.ObliqueViewer
+[2020-12-07T23:39:24.457] [INFO] repo - insert HTML.OverviewMap
+[2020-12-07T23:39:24.459] [INFO] repo - insert HTML.ParcelDrafter
+[2020-12-07T23:39:24.468] [INFO] repo - insert HTML.Print
+[2020-12-07T23:39:24.472] [INFO] repo - insert HTML.PublicNotification
+[2020-12-07T23:39:24.476] [INFO] repo - insert HTML.Query
+[2020-12-07T23:39:24.480] [INFO] repo - insert HTML.RelatedTableCharts
+[2020-12-07T23:39:24.484] [INFO] repo - insert HTML.ReportFeature
+[2020-12-07T23:39:24.490] [INFO] repo - insert HTML.ReviewerDashboard
+[2020-12-07T23:39:24.495] [INFO] repo - insert HTML.Scalebar
+[2020-12-07T23:39:24.499] [INFO] repo - insert HTML.Screening
+[2020-12-07T23:39:24.503] [INFO] repo - insert HTML.Search
+[2020-12-07T23:39:24.507] [INFO] repo - insert HTML.Select
+[2020-12-07T23:39:24.509] [INFO] repo - insert HTML.Share
+[2020-12-07T23:39:24.513] [INFO] repo - insert HTML.SituationAwareness
+[2020-12-07T23:39:24.516] [INFO] repo - insert HTML.SmartEditor
+[2020-12-07T23:39:24.519] [INFO] repo - insert HTML.Splash
+[2020-12-07T23:39:24.522] [INFO] repo - insert HTML.Stream
+[2020-12-07T23:39:24.525] [INFO] repo - insert HTML.SuitabilityModeler
+[2020-12-07T23:39:24.531] [INFO] repo - insert HTML.Summary
+[2020-12-07T23:39:24.534] [INFO] repo - insert HTML.Swipe
+[2020-12-07T23:39:24.541] [INFO] repo - insert HTML.ThreatAnalysis
+[2020-12-07T23:39:24.543] [INFO] repo - insert HTML.TimeSlider
+[2020-12-07T23:39:24.545] [INFO] repo - insert HTML.Visibility
+[2020-12-07T23:39:24.548] [INFO] repo - insert HTML.ZoomSlider
+[2020-12-07T23:39:24.555] [INFO] repo - Read repository items: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\themes
+[2020-12-07T23:39:26.439] [INFO] repo - insert HTML.BillboardTheme
+[2020-12-07T23:39:26.449] [INFO] repo - insert HTML.DartTheme
+[2020-12-07T23:39:26.458] [INFO] repo - insert HTML.TabTheme
+[2020-12-07T23:39:26.466] [INFO] repo - insert HTML.LaunchpadTheme
+[2020-12-07T23:39:26.476] [INFO] repo - insert HTML.BoxTheme
+[2020-12-07T23:39:26.486] [INFO] repo - insert HTML.FoldableTheme
+[2020-12-07T23:39:26.497] [INFO] repo - insert HTML.DashboardTheme
+[2020-12-07T23:39:26.502] [INFO] repo - insert HTML.PocketTheme
+[2020-12-07T23:39:26.511] [INFO] repo - insert HTML.JewelryBoxTheme
+[2020-12-07T23:39:26.515] [INFO] repo - insert HTML.PlateauTheme
+[2020-12-07T23:39:26.518] [INFO] repo - Read repository items: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2020-12-07T23:39:28.618] [INFO] repo - insert HTML3D.3DFx
+[2020-12-07T23:39:28.624] [INFO] repo - insert HTML3D.Navigate
+[2020-12-07T23:39:28.626] [INFO] repo - insert HTML3D.Daylight
+[2020-12-07T23:39:28.628] [INFO] repo - insert HTML3D.Slides
+[2020-12-07T23:39:28.630] [INFO] repo - insert HTML3D.FullScreen
+[2020-12-07T23:39:28.631] [INFO] repo - insert HTML3D.Splash
+[2020-12-07T23:39:28.634] [INFO] repo - insert HTML3D.About
+[2020-12-07T23:39:28.636] [INFO] repo - insert HTML3D.ZoomSlider
+[2020-12-07T23:39:28.637] [INFO] repo - insert HTML3D.Search
+[2020-12-07T23:39:28.639] [INFO] repo - insert HTML3D.Home
+[2020-12-07T23:39:28.642] [INFO] repo - insert HTML3D.Compass
+[2020-12-07T23:39:28.644] [INFO] repo - insert HTML3D.Legend
+[2020-12-07T23:39:28.645] [INFO] repo - insert HTML3D.Measurement3D
+[2020-12-07T23:39:28.648] [INFO] repo - insert HTML3D.BasemapGallery
+[2020-12-07T23:39:28.651] [INFO] repo - insert HTML3D.Coordinate
+[2020-12-07T23:39:28.652] [INFO] repo - insert HTML3D.LayerList
+[2020-12-07T23:39:28.655] [INFO] repo - insert HTML3D.MyLocation
+[2020-12-07T23:39:28.657] [INFO] repo - insert HTML3D.Share
+[2020-12-07T23:39:28.658] [INFO] repo - Read repository items: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2020-12-07T23:39:29.508] [INFO] repo - insert HTML3D.DashboardTheme
+[2020-12-07T23:39:29.513] [INFO] repo - insert HTML3D.DartTheme
+[2020-12-07T23:39:29.515] [INFO] repo - insert HTML3D.BoxTheme
+[2020-12-07T23:39:29.518] [INFO] repo - insert HTML3D.JewelryBoxTheme
+[2020-12-07T23:39:29.520] [INFO] repo - insert HTML3D.FoldableTheme
+[2020-12-07T23:39:29.523] [INFO] repo - insert HTML3D.TabTheme
+[2020-12-07T23:39:29.525] [INFO] repo - insert HTML3D.BillboardTheme
+[2020-12-07T23:39:29.529] [INFO] repo - insert HTML3D.LaunchpadTheme
+[2020-12-07T23:59:16.569] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2020-12-07T23:59:17.758] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\images
+[2020-12-07T23:59:17.773] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\libs
+[2020-12-07T23:59:17.839] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2020-12-07T23:59:17.842] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2020-12-07T23:59:17.845] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2020-12-07T23:59:17.850] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2020-12-07T23:59:17.852] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2020-12-07T23:59:17.855] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2020-12-07T23:59:17.863] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2020-12-07T23:59:17.868] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2020-12-07T23:59:17.872] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\configs
+[2020-12-07T23:59:17.881] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2020-12-07T23:59:17.886] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2020-12-07T23:59:17.889] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2020-12-07T23:59:17.896] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2020-12-07T23:59:18.254] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2020-12-07T23:59:18.441] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2020-12-07T23:59:18.625] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2020-12-07T23:59:18.820] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2020-12-07T23:59:19.019] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2020-12-07T23:59:19.121] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2020-12-07T23:59:19.325] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2020-12-07T23:59:19.556] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2020-12-07T23:59:19.766] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2020-12-07T23:59:19.892] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\ExtentNavigate
+[2020-12-07T23:59:19.977] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\FullScreen
+[2020-12-07T23:59:20.078] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2020-12-07T23:59:20.269] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2020-12-08T00:03:36.160] [INFO] repo - insert HTML.PopupPanel
+[2020-12-08T00:03:58.602] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\PopupPanel
+[2020-12-08T00:06:21.889] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Directions
+[2020-12-08T00:12:38.382] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\DistrictLookup
+[2020-12-08T00:14:02.313] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\About
+[2020-12-08T00:14:17.417] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\BasemapGallery
+[2020-12-08T00:14:48.822] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\GeoLookup
+[2020-12-08T00:15:17.067] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\DistanceAndDirection
+[2020-12-08T00:15:48.404] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\NearMe
+[2020-12-08T00:18:28.229] [INFO] app - remove widget About from app 2
+[2020-12-08T00:18:28.327] [INFO] app - remove widget BasemapGallery from app 2
+[2020-12-08T00:18:28.433] [INFO] app - remove widget Directions from app 2
+[2020-12-08T00:18:28.519] [INFO] app - remove widget DistrictLookup from app 2
+[2020-12-08T00:18:28.595] [INFO] app - remove widget GeoLookup from app 2
+[2020-12-08T00:18:39.240] [DEBUG] utils - copy C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Print
+[2020-12-08T16:30:35.773] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\themes\PlateauTheme\manifest.json
+[2020-12-08T16:30:36.134] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\themes\PocketTheme\manifest.json
+[2020-12-08T16:30:36.232] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\themes\TabTheme\manifest.json
+[2020-12-08T16:30:36.612] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\About\manifest.json
+[2020-12-08T16:30:36.993] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\AddData\manifest.json
+[2020-12-08T16:30:37.587] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Analysis\manifest.json
+[2020-12-08T16:30:38.046] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable\manifest.json
+[2020-12-08T16:30:38.563] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\BasemapGallery\manifest.json
+[2020-12-08T16:30:39.172] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\BatchAttributeEditor\manifest.json
+[2020-12-08T16:30:39.941] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Bookmark\manifest.json
+[2020-12-08T16:30:40.937] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\BusinessAnalyst\manifest.json
+[2020-12-08T16:30:41.931] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Chart\manifest.json
+[2020-12-08T16:30:42.184] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate\manifest.json
+[2020-12-08T16:30:42.571] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\CoordinateConversion\manifest.json
+[2020-12-08T16:30:43.640] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\CostAnalysis\manifest.json
+[2020-12-08T16:30:44.492] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\DataAggregation\manifest.json
+[2020-12-08T16:30:44.915] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Directions\manifest.json
+[2020-12-08T16:30:45.380] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\DistanceAndDirection\manifest.json
+[2020-12-08T16:30:45.960] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\DistrictLookup\manifest.json
+[2020-12-08T16:30:46.128] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Draw\manifest.json
+[2020-12-08T16:30:46.709] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Edit\manifest.json
+[2020-12-08T16:30:47.181] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\EmergencyResponseGuide\manifest.json
+[2020-12-08T16:30:47.455] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\ExtentNavigate\manifest.json
+[2020-12-08T16:30:47.669] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Filter\manifest.json
+[2020-12-08T16:30:48.034] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\FullScreen\manifest.json
+[2020-12-08T16:30:48.325] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\GeoLookup\manifest.json
+[2020-12-08T16:30:48.983] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Geoprocessing\manifest.json
+[2020-12-08T16:30:50.201] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\GriddedReferenceGraphic\manifest.json
+[2020-12-08T16:30:50.444] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\GridOverlay\manifest.json
+[2020-12-08T16:30:51.242] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\GroupFilter\manifest.json
+[2020-12-08T16:30:51.766] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton\manifest.json
+[2020-12-08T16:30:51.972] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\ImageMeasurement\manifest.json
+[2020-12-08T16:30:52.832] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\IncidentAnalysis\manifest.json
+[2020-12-08T16:30:53.045] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Infographic\manifest.json
+[2020-12-08T16:30:53.542] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\InfoSummary\manifest.json
+[2020-12-08T16:30:54.042] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList\manifest.json
+[2020-12-08T16:30:55.230] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend\manifest.json
+[2020-12-08T16:30:55.751] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Measurement\manifest.json
+[2020-12-08T16:30:56.357] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation\manifest.json
+[2020-12-08T16:30:57.895] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\NearMe\manifest.json
+[2020-12-08T16:30:58.016] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\NetworkTrace\manifest.json
+[2020-12-08T16:30:58.291] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\ObliqueViewer\manifest.json
+[2020-12-08T16:30:58.839] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap\manifest.json
+[2020-12-08T16:31:00.698] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\ParcelDrafter\manifest.json
+[2020-12-08T16:31:01.155] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Print\manifest.json
+[2020-12-08T16:31:01.581] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\PublicNotification\manifest.json
+[2020-12-08T16:31:03.086] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Query\manifest.json
+[2020-12-08T16:31:03.117] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\RelatedTableCharts\manifest.json
+[2020-12-08T16:34:31.237] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\RelatedTableCharts\manifest.json
+[2020-12-08T16:34:32.394] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\ReportFeature\manifest.json
+[2020-12-08T16:34:33.264] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\ReviewerDashboard\manifest.json
+[2020-12-08T16:34:33.755] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar\manifest.json
+[2020-12-08T16:34:34.876] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Screening\manifest.json
+[2020-12-08T16:43:36.961] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Search\manifest.json
+[2020-12-08T16:43:37.718] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Select\manifest.json
+[2020-12-08T16:43:38.658] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Share\manifest.json
+[2020-12-08T16:43:39.085] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\SituationAwareness\manifest.json
+[2020-12-08T16:49:40.062] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\SmartEditor\manifest.json
+[2020-12-08T16:49:41.526] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash\manifest.json
+[2020-12-08T16:49:42.120] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Stream\manifest.json
+[2020-12-08T16:49:43.018] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\SuitabilityModeler\manifest.json
+[2020-12-08T16:49:43.384] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Summary\manifest.json
+[2020-12-08T16:49:44.114] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Swipe\manifest.json
+[2020-12-08T16:49:44.552] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\ThreatAnalysis\manifest.json
+[2020-12-08T16:49:45.118] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\TimeSlider\manifest.json
+[2020-12-08T16:49:45.757] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\Visibility\manifest.json
+[2020-12-08T16:49:45.818] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider\manifest.json
+[2020-12-08T16:49:55.602] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\themes\BillboardTheme\manifest.json
+[2020-12-08T16:49:55.723] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\themes\BoxTheme\manifest.json
+[2020-12-08T16:49:55.943] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\themes\DartTheme\manifest.json
+[2020-12-08T16:49:56.376] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\themes\DashboardTheme\manifest.json
+[2020-12-08T16:49:56.583] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\themes\FoldableTheme\manifest.json
+[2020-12-08T16:49:56.802] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\themes\JewelryBoxTheme\manifest.json
+[2020-12-08T16:49:57.105] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\themes\LaunchpadTheme\manifest.json
+[2020-12-08T16:49:57.609] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\themes\TabTheme\manifest.json
+[2020-12-08T16:49:58.015] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\3DFx\manifest.json
+[2020-12-08T16:49:58.617] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\About\manifest.json
+[2020-12-08T16:49:58.763] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\Compass\manifest.json
+[2020-12-08T16:49:58.931] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\BasemapGallery\manifest.json
+[2020-12-08T16:49:59.195] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\Coordinate\manifest.json
+[2020-12-08T16:49:59.408] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\Daylight\manifest.json
+[2020-12-08T16:49:59.683] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\FullScreen\manifest.json
+[2020-12-08T16:50:00.216] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\Home\manifest.json
+[2020-12-08T16:50:00.429] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\LayerList\manifest.json
+[2020-12-08T16:50:00.932] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\Measurement3D\manifest.json
+[2020-12-08T16:50:01.177] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\Legend\manifest.json
+[2020-12-08T16:50:01.392] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\MyLocation\manifest.json
+[2020-12-08T16:50:01.438] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\Navigate\manifest.json
+[2020-12-08T16:50:01.970] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\Search\manifest.json
+[2020-12-08T16:50:02.076] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\Share\manifest.json
+[2020-12-08T16:50:02.761] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\Slides\manifest.json
+[2020-12-08T16:50:02.821] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\Splash\manifest.json
+[2020-12-08T16:50:03.158] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp3d\widgets\ZoomSlider\manifest.json
+[2020-12-08T17:14:25.255] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\themes\BillboardTheme\manifest.json
+[2020-12-08T17:14:25.484] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\themes\BoxTheme\manifest.json
+[2020-12-08T17:14:25.974] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\themes\DartTheme\manifest.json
+[2020-12-08T17:14:26.265] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\themes\DashboardTheme\manifest.json
+[2020-12-08T17:14:27.214] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\themes\DemoTheme\manifest.json
+[2020-12-08T17:14:27.267] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme\manifest.json
+[2020-12-08T17:14:27.286] [INFO] repo - insert HTML.DemoTheme
+[2020-12-08T17:14:27.688] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\themes\JewelryBoxTheme\manifest.json
+[2020-12-08T17:14:28.011] [INFO] repo - theme changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\themes\LaunchpadTheme\manifest.json
+[2020-12-08T17:14:41.925] [INFO] repo - widget changed: C:\Users\jessi\OneDrive\Documents\Schooling\Internet Mapping\FInal Assignment\FinalProject2020\arcgis-web-appbuilder-2.18\WebAppBuilderForArcGIS\client\stemapp\widgets\PopupPanel\manifest.json

@@ -1,0 +1,9 @@
+{
+  "serviceURL": "https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
+  "defaultTitle": "Historic Places of England",
+  "defaultAuthor": "JessMohawkCollege",
+  "defaultCopyright": "MohawkCollegeFinalProject",
+  "defaultFormat": "PDF",
+  "defaultLayout": "MAP_ONLY",
+  "copyrightEditable": true
+}

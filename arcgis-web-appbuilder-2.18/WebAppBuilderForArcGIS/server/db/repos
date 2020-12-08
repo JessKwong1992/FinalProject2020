@@ -1,0 +1,12 @@
+{"k":"0000000078","o":"0000000372","v":"001"}
+{"_id":2,"_uid":2,"_dt":1607402359536,"_s":"c3d02e281c432ef70758a574cdd34459"}
+{"name":"HTML widgets","type":"local_folder","url":"/webappbuilder/builder/plugins/stemapps/web2d/../../../../stemapp//widgets/","location":"C:\\Users\\jessi\\OneDrive\\Documents\\Schooling\\Internet Mapping\\FInal Assignment\\FinalProject2020\\arcgis-web-appbuilder-2.18\\WebAppBuilderForArcGIS\\client\\stemapp\\widgets","category":"widget","_id":{"$wrap":"$oid","v":2}}
+{"k":"0000000078","o":"0000000368","v":"001"}
+{"_id":3,"_uid":3,"_dt":1607402364571,"_s":"204ea1a44019b62207c093a5a6008d79"}
+{"name":"HTML themes","type":"local_folder","url":"/webappbuilder/builder/plugins/stemapps/web2d/../../../../stemapp//themes/","location":"C:\\Users\\jessi\\OneDrive\\Documents\\Schooling\\Internet Mapping\\FInal Assignment\\FinalProject2020\\arcgis-web-appbuilder-2.18\\WebAppBuilderForArcGIS\\client\\stemapp\\themes","category":"theme","_id":{"$wrap":"$oid","v":3}}
+{"k":"0000000078","o":"0000000378","v":"001"}
+{"_id":4,"_uid":4,"_dt":1607402366524,"_s":"57033bd320266e2cef3a480c816cc864"}
+{"name":"HTML3D widgets","type":"local_folder","url":"/webappbuilder/builder/plugins/stemapps/web3d/../../../../stemapp3d//widgets/","location":"C:\\Users\\jessi\\OneDrive\\Documents\\Schooling\\Internet Mapping\\FInal Assignment\\FinalProject2020\\arcgis-web-appbuilder-2.18\\WebAppBuilderForArcGIS\\client\\stemapp3d\\widgets","category":"widget","_id":{"$wrap":"$oid","v":4}}
+{"k":"0000000078","o":"0000000374","v":"001"}
+{"_id":5,"_uid":5,"_dt":1607402368662,"_s":"ede8420f82a95b2ea6b62b3d360a461c"}
+{"name":"HTML3D themes","type":"local_folder","url":"/webappbuilder/builder/plugins/stemapps/web3d/../../../../stemapp3d//themes/","location":"C:\\Users\\jessi\\OneDrive\\Documents\\Schooling\\Internet Mapping\\FInal Assignment\\FinalProject2020\\arcgis-web-appbuilder-2.18\\WebAppBuilderForArcGIS\\client\\stemapp3d\\themes","category":"theme","_id":{"$wrap":"$oid","v":5}}
